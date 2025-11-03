@@ -1,0 +1,6 @@
+{
+  "Permissive": ["MIT", "Apache-2.0", "BSD-3-Clause"],
+  "Copyleft": ["GPL-3.0", "AGPL-3.0"],
+  "Weak Copyleft": ["LGPL-3.0", "MPL-2.0"],
+  "Unknown": []
+}
